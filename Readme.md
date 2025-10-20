@@ -3,25 +3,22 @@
 </h1>
 
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00);
-               -webkit-background-clip: text;
-               color: transparent;
-               font-size: 50px;
-               font-weight: bold;
-               text-shadow: 0 0 25px #fff;">
-    ✨🌈 AYANAT-AI 🌈✨
+  <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00); 
+               -webkit-background-clip: text; 
+               color: transparent; 
+               font-size: 45px; 
+               font-weight: bold;">
+    ✨ AYANAT-AI ✨
   </span>
 </h1>
 
 <p align="center">
-  <b>A multi-device WhatsApp bot created & maintained by 
-    <span style="color:#00FFFF;text-shadow:0 0 10px #00FFFF;">ANAYAT</span> 🚀🔥
-  </b>
+  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">ANAYAT</span> 🚀</b>
 </p>
 
 ---
 
-## 🌟 𝙁𝙊𝙍𝙆 & 𝙎𝙏𝘼𝙍 🌟
+## ⭐ 𝙁𝙊𝙍𝙆 & 𝙎𝙏𝘼𝙍
 <p align="center">
   <a href="https://anayat-ai-kashmairi.onrender.com/">
     <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
@@ -30,11 +27,11 @@
     <img src="https://img.shields.io/github/stars/ANAYAT-AI/ANAYAT-AI?style=for-the-badge&color=gold&logo=github" />
   </a>
 </p>
-<p align="center">💡 Don’t forget to <b>Fork</b> & <b>⭐ Star</b> this repo before using!</p>
+<p align="center">💡 Don’t forget to <b>Fork</b> & <b>Star ⭐</b> this repo before using!</p>
 
 ---
 
-## 🔐 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
+## 🔑 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
 <p align="center">
   <a href="https://anayat-hacker-iit3.onrender.com">
     <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -50,7 +47,7 @@
     <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
   </a>
 </p>
-<p align="center">⚡ Deploy your bot on <b>Heroku</b> easily and instantly!</p>
+<p align="center">⚡ Deploy your bot on <b>Heroku</b> easily.</p>
 
 ---
 
@@ -63,22 +60,22 @@
     <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
-<p align="center">📢 Stay connected with <b>Channel</b> & <b>Owner</b> for latest updates 🚀</p>
+<p align="center">📢 Stay connected with <b>Channel</b> & <b>Owner</b> for updates.</p>
 
 ---
 
 ## ⚡ 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
-- ✨ Auto Reply  
-- 📥 Media Downloader (FB, Insta, TikTok etc.)  
-- 👥 Group Management  
-- ⚙️ Easy Setup  
-- 🕒 24/7 Uptime  
+- ✅ Auto Reply  
+- ✅ Media Downloader (FB, Insta, TikTok etc.)  
+- ✅ Group Management  
+- ✅ Easy Setup  
+- ✅ 24/7 Uptime  
 
 ---
 
 ## ⚠️ 𝙍𝙀𝙈𝙄𝙉𝘿𝙀𝙍
-- ❌ Not affiliated with WhatsApp Inc.  
-- 🚫 Misuse may ban your number permanently.  
+- ❌ This bot is not affiliated with WhatsApp Inc.  
+- ⚡ Misuse may ban your number permanently.  
 - 🛡️ Owner is not responsible for any misuse.  
 
 ---
@@ -89,11 +86,6 @@ Do not sell, misuse, or use without giving credits.
 
 ---
 
-<h2 align="center" style="font-size:30px;">
-  🌈✨ Thanks for using <span style="color:#00FFFF;text-shadow:0 0 15px #00FFFF;">AYANAT-AI</span> ✨🌈<br>
-  💻 Made with 💖 by <span style="color:#FF00FF;">ANAYAT</span>
+<h2 align="center">
+  🌈✨ Thanks for using <span style="color:#00FFFF">AYANAT-AI</span> ✨🌈
 </h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=✨+Powerful+Multi-Device+Bot;🚀+Fast+and+Easy+Deployment;🌐+Made+for+Everyone+✨" alt="Typing SVG" />
-</p>
