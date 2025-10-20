@@ -1,91 +1,97 @@
 <h1 align="center">
-  <img src="https://files.catbox.moe/rexuf8.jpg" alt="AYANAT-AI" width="800" style="border-radius:25px;box-shadow:0 0 30px violet;"/>
+  <img src="https://files.catbox.moe/rexuf8.jpg" 
+       alt="AYANAT-AI" 
+       width="880" 
+       style="
+         border-radius:35px;
+         box-shadow:0 0 45px #ff00ff;
+         animation: zoomIn 4s ease-in-out infinite alternate;
+       "/>
 </h1>
 
+<style>
+@keyframes zoomIn {
+  from { transform: scale(1); }
+  to { transform: scale(1.05); }
+}
+
+@keyframes glowText {
+  0% { opacity: 0; text-shadow: 0 0 10px #ff00ff; }
+  50% { opacity: 1; text-shadow: 0 0 25px #00ffff, 0 0 45px #ff00ff; }
+  100% { opacity: 0; text-shadow: 0 0 10px #ff00ff; }
+}
+</style>
+
 <h1 align="center">
-  <span style="background: linear-gradient(to right, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00); 
-               -webkit-background-clip: text; 
-               color: transparent; 
-               font-size: 45px; 
-               font-weight: bold;">
-    ✨ AYANAT-AI ✨
+  <span style="
+    background: linear-gradient(90deg, #ff00cc, #3333ff, #00ffcc, #33ff33, #ffcc00);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 60px;
+    font-weight: 900;
+    letter-spacing: 3px;
+    animation: glowText 5s ease-in-out infinite;
+  ">
+    ✨ ＡＹＡＮＡＴ－ＡＩ ✨
   </span>
 </h1>
 
-<p align="center">
-  <b>A multi-device WhatsApp bot created & maintained by <span style="color:#00FFFF">ANAYAT</span> 🚀</b>
-</p>
+<h3 align="center" style="
+  color:#ffffff;
+  font-size:20px;
+  font-weight:bold;
+  background: linear-gradient(to right, #00ffff, #ff00ff, #00ffcc);
+  -webkit-background-clip: text;
+  color: transparent;
+  animation: glowText 7s ease-in-out infinite;
+">
+  🚀 The Official Premium WhatsApp Multi-Device Bot 🌍
+</h3>
 
 ---
 
-## ⭐ 𝙁𝙊𝙍𝙆 & 𝙎𝙏𝘼𝙍
-<p align="center">
-  <a href="https://anayat-ai-kashmairi.onrender.com/">
-    <img src="https://img.shields.io/badge/Fork-Repo-ff00ff?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/ANAYAT-AI/ANAYAT-AI">
-    <img src="https://img.shields.io/github/stars/ANAYAT-AI/ANAYAT-AI?style=for-the-badge&color=gold&logo=github" />
-  </a>
-</p>
-<p align="center">💡 Don’t forget to <b>Fork</b> & <b>Star ⭐</b> this repo before using!</p>
+<div align="center">
+
+### 💠 ────── 𝑷𝑹𝑶𝑱𝑬𝑪𝑻 𝑰𝑵𝑭𝑶 ────── 💠  
+**Created & Maintained by:** <span style="color:#00FFFF;font-weight:bold;">ANAYAT</span> 👑  
+**Version:** 4.0.0 • **Platform:** Heroku  
+**Language:** Node.js 💻  
 
 ---
 
-## 🔑 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
-<p align="center">
-  <a href="https://anayat-hacker-iit3.onrender.com">
-    <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-<p align="center">📲 Click above button to generate your <b>Session ID</b> (required for deployment).</p>
+### 💎 ────── 𝑭𝑬𝑨𝑻𝑼𝑹𝑬𝑺 ────── 💎  
+✅ Auto Reply & AI Chat  
+✅ HD Media Downloader  
+✅ Group Tools & Anti-link  
+✅ Logo Maker & Fun Menu  
+✅ 24/7 Uptime & Cloud Deploy  
 
 ---
 
-## 🚀 𝘿𝙀𝙋𝙇𝙊𝙔 𝙉𝙊𝙒
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/ANAYAT-AI/ANAYAT-AI">
-    <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
-  </a>
-</p>
-<p align="center">⚡ Deploy your bot on <b>Heroku</b> easily.</p>
+### 🌐 ────── 𝑳𝑰𝑵𝑲𝑺 ────── 🌐  
+[🔥 Deploy on Heroku](https://dashboard.heroku.com/new?template=https://github.com/ANAYAT-AI/ANAYAT-AI)  
+[💫 Get Session ID](https://anayat-hacker-iit3.onrender.com)  
+[📢 Join WhatsApp Channel](https://whatsapp.com/channel/0029VbAm8LqL2ATpxklIct2g)  
+[💬 Contact Owner](https://api.whatsapp.com/send?phone=+923452401207&text=Hey%20ANAYAT%20AI)
 
 ---
 
-## 📡 𝙒𝙃𝘼𝙏𝙎𝘼𝙋𝙋 𝘾𝙊𝙉𝙉𝙀𝘾𝙏𝙎
-<p align="center">
-  <a href="https://whatsapp.com/channel/0029VbAm8LqL2ATpxklIct2g">
-    <img src="https://img.shields.io/badge/Join-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+923452401207&text=➪𝐇𝐄𝐘𓆩𝗞𝗔𝗦𝗛𝗠𝗜𝗥𝗜𝗛𝗔𝗖𝗞𝗘𝗥🐍🍷🌹'">
-    <img src="https://img.shields.io/badge/Contact-Owner-ff0000?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-</p>
-<p align="center">📢 Stay connected with <b>Channel</b> & <b>Owner</b> for updates.</p>
+### 🛡️ ────── 𝑫𝑰𝑺𝑪𝑳𝑨𝑰𝑴𝑬𝑹 ────── 🛡️  
+⚠️ This bot is for **learning & fun only**.  
+⚠️ Not affiliated with WhatsApp Inc.  
+⚠️ Misuse may result in number ban.  
 
 ---
 
-## ⚡ 𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎
-- ✅ Auto Reply  
-- ✅ Media Downloader (FB, Insta, TikTok etc.)  
-- ✅ Group Management  
-- ✅ Easy Setup  
-- ✅ 24/7 Uptime  
-
----
-
-## ⚠️ 𝙍𝙀𝙈𝙄𝙉𝘿𝙀𝙍
-- ❌ This bot is not affiliated with WhatsApp Inc.  
-- ⚡ Misuse may ban your number permanently.  
-- 🛡️ Owner is not responsible for any misuse.  
-
----
-
-## 📝 𝘿𝙄𝙎𝘾𝙇𝘼𝙄𝙈𝙀𝙍
-This bot is made for **learning & fun purposes only**.  
-Do not sell, misuse, or use without giving credits.  
-
----
-
-<h2 align="center">
-  🌈✨ Thanks for using <span style="color:#00FFFF">AYANAT-AI</span> ✨🌈
+<h2 align="center" style="
+  background: linear-gradient(to right, #ff00ff, #00ffff, #33ff33);
+  -webkit-background-clip: text;
+  color: transparent;
+  font-weight:900;
+  font-size:28px;
+  animation: glowText 6s ease-in-out infinite;
+">
+  🌈✨ 𝑻𝑯𝑨𝑵𝑲 𝒀𝑶𝑼 𝑭𝑶𝑹 𝑼𝑺𝑰𝑵𝑮  ＡＹＡＮＡＴ－ＡＩ ✨🌈
 </h2>
+
+</div>
