@@ -17,7 +17,7 @@ ___
 <h1 align="center">Fork This Project</h1>
 
 <p align="center">
-  <a href="https://github.com/ANAYAT/ANAYAT-AI-AI/fork">
+  <a href="https://github.com/ANAYAT/ANAYAT-AI/fork">
     <img src="./ANAYAT/fork-btn.svg" alt="Fork Repository"/>
   </a>
 </p>
