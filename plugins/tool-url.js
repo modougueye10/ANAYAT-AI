@@ -65,7 +65,7 @@ cmd({
       `*${mediaType} Uploaded Successfully*\n\n` +
       `*Size:* ${formatBytes(mediaBuffer.length)}\n` +
       `*URL:* ${mediaUrl}\n\n` +
-      `>  𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈 💜`
+      `> 𝐀𝐍𝐀𝐘𝐀𝐓-𝐀𝐈 💜`
     );
 
   } catch (error) {
