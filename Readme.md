@@ -78,4 +78,4 @@ ___
 ### ⭐ Support
 If you like **ANAYAT-AI**, give it a ⭐ on GitHub — it helps others find this bot easily!
 
-<p align="center">Made With 🤍 by <b>ANAYAT-AI</b></p>
+<p align="center">Made With 🤍 by <b>𓆩𝗞𝗔𝗦𝗛𝗠𝗜𝗥𝗜𝗛𝗔𝗖𝗞𝗘𝗥🐍🍷🌹</b></p>
