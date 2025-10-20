@@ -34,7 +34,7 @@ ___
 <h1 align="center"> 𝐃𝐄𝐏𝐋𝐎𝐘 </h1>
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/ANAYAT-AI/ANAYAT-AI-AI/tree/main">
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/ANAYAT-AI/ANAYAT-AI/tree/main">
     <img src="./ANAYAT-AI/deploy-btn.svg" alt="DEPLOY ON HEROKU" width="260"/>
   </a>
 </p>
