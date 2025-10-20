@@ -1,4 +1,4 @@
-[![QADEER BRAHVI](https://raw.githubusercontent.com/ANAYAT-AI/ANAYAT-AI/main/ANAYAT/anayat.svg)](https://whatsapp.com/channel/0029VbAm8LqL2ATpxklIct2g)
+[![ANAYAT-AI](https://raw.githubusercontent.com/ANAYAT-AI/ANAYAT-AI/main/ANAYAT/anayat.svg)](https://whatsapp.com/channel/0029VbAm8LqL2ATpxklIct2g)
 
 ___
 
