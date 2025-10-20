@@ -56,7 +56,7 @@ cmd({
   'alias': ["vid", "ytv"],
   'desc': "Download YouTube Video",
   'category': 'downloader',
-  'react': '🪄',
+  'react': '🎥',
   'filename': __filename
 }, async (_0x291138, _0x40711d, _0x320efe, {
   from: _0x3764b7,
