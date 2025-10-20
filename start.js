@@ -1,4 +1,4 @@
-//Created By QADEER-AI Coder and QADEER BRAHVI don't copy without permission of owner
+//Created By QADEER-AI don't copy without permission of owner
 
 
 
