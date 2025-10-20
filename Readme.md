@@ -18,7 +18,7 @@ ___
 
 <p align="center">
   <a href="https://github.com/ANAYAT/ANAYAT-AI/fork">
-    <img src="./ANAYAT/fork-btn.svg" alt="Fork Repository"/>
+    <img src="./ANAYAT-AI/fork-btn.svg" alt="Fork Repository"/>
   </a>
 </p>
 
